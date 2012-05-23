@@ -1,0 +1,17 @@
+django>=1.4
+
+# Templates
+jinja2
+jingo
+jingo-minify
+markdown
+
+# bcrypt for passwords
+py-bcrypt
+
+# Migrations
+south
+
+# Dev
+pylint
+ipython
